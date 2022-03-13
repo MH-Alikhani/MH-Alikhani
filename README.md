@@ -2,8 +2,6 @@
 #### I'm a Software Engineer
 ![I'm a Software Engineer](https://github.com/MH-Alikhani/MH-Alikhani/blob/main/17301977.jpg?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
 
 - 🌱 I’m currently learning Advanced subject of computer science and programming 
