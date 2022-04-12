@@ -9,6 +9,5 @@ Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
 - ⚡ Fun fact: I could work with computers since I was 1 year old. 
 
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MH-Alikhani&show_icons=true&count_private=true)  
