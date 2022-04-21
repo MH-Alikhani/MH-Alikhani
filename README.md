@@ -1,6 +1,6 @@
 ![I'm a Software Engineer](https://github.com/MH-Alikhani/MH-Alikhani/blob/main/banner.jpeg?raw=true)
 
-Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
+##  Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
 
 - 🌱 I’m currently learning Advanced subject of computer science and programming 
 - 📫 How to reach me: mohammad.hosein.alikhani08@gmail.com 
