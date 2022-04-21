@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Mohammad Hosein
-#### I'm a Software Engineer
 ![I'm a Software Engineer](https://github.com/MH-Alikhani/MH-Alikhani/blob/main/banner.jpeg?raw=true)
 
 Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
