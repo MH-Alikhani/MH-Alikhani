@@ -1,4 +1,4 @@
-![I'm a Software Engineer](https://github.com/MH-Alikhani/MH-Alikhani/blob/main/banner.jpeg?raw=true)
+![I'm a Software Engineer](https://raw.githubusercontent.com/MH-Alikhani/MH-Alikhani/main/banner.jpg)
 
 ##  Skills: JS / Python / C / Node JS / React JS / React Native and so on ...
 
