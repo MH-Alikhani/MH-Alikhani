@@ -1,1 +1,1 @@
-![I'm a Software Engineer](https://raw.githubusercontent.com/MH-Alikhani/MH-Alikhani/main/banner.jpg)
+![I'm a Software Engineer](banner.jpg)
